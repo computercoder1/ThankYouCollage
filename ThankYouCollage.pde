@@ -95,8 +95,5 @@ void draw() {
 
 void mousePressed () {
   link("https://c1.staticflickr.com/5/4079/4759535950_7bca6684c8_b.jpg");
-}
-
-void mousePressed () {
     link("http://www.thebluediamondgallery.com/wooden-tile/images/thank-you.jpg"); 
 }
